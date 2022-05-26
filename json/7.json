@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #7",
+    "description": "The Council of Frogs",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/main/images/7.png",
+    "external_url": "https://frogs.shadowkite.io",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "PastelOrange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Barely Protective Welding Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown $RAT"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smiling"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Red Glow"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Mighty Administrator's Quill"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #19",
+    "description": "The Council of Frogs",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/main/images/19.png",
+    "external_url": "https://frogs.shadowkite.io",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "PastelRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Orange Blue"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Spectacles of the Wise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Indifferent"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Slit"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "None"
+        }
+    ]
+}

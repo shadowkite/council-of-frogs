@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #15",
+    "description": "The Council of Frogs",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/main/images/15.png",
+    "external_url": "https://frogs.shadowkite.io",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pastel Aqua"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Spectacles of the Wise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lick"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "The Non-existant Spoon of Gd'thta"
+        }
+    ]
+}

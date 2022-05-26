@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #11",
+    "description": "The Council of Frogs",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/main/images/11.png",
+    "external_url": "https://frogs.shadowkite.io",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DarkpurpleGradient"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spaaaaace"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Face",
+            "value": "I mustache you a question!"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smiling"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Merlins Lost Staff"
+        }
+    ]
+}
