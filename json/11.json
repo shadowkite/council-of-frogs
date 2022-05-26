@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "Background",
-            "value": "DarkpurpleGradient"
+            "value": "Dark Purple Gradient"
         },
         {
             "trait_type": "Body",
@@ -46,7 +46,7 @@
         },
         {
             "trait_type": "Weapon",
-            "value": "Merlins Lost Staff"
+            "value": "Merlin's Lost Staff"
         }
     ]
 }
