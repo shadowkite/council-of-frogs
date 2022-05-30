@@ -5,48 +5,8 @@
     "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
         {
-            "trait_type": "Back",
-            "value": "None"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Pastel Purple"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Red"
-        },
-        {
-            "trait_type": "Extra",
-            "value": "Handcrafted Leather Armguards"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Happy"
-        },
-        {
-            "trait_type": "Face",
-            "value": "None"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Indifferent"
-        },
-        {
-            "trait_type": "Pupils",
-            "value": "Horizontal"
-        },
-        {
-            "trait_type": "Tattoo",
-            "value": "None"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Merlin's Lost Staff"
+            "trait_type": "Elder",
+            "value": "Graffiti"
         }
     ]
 }

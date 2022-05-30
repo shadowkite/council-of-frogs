@@ -1,12 +1,12 @@
 {
-    "name": "Council of Frogs #1234",
+    "name": "Council of Frogs #1500",
     "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
-    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/1234.png",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/1500.png",
     "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
         {
             "trait_type": "Back",
-            "value": "Damascus Steel Katana"
+            "value": "None"
         },
         {
             "trait_type": "Background",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "Body",
-            "value": "Gold Statue"
+            "value": "Red"
         },
         {
             "trait_type": "Extra",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Open"
+            "value": "Happy"
         },
         {
             "trait_type": "Face",
@@ -30,15 +30,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Strawberry of Unlimited Power"
         },
         {
             "trait_type": "Mouth",
-            "value": "Indifferent"
+            "value": "Unhappy"
         },
         {
             "trait_type": "Pupils",
-            "value": "Slit"
+            "value": "Horizontal"
         },
         {
             "trait_type": "Tattoo",
@@ -46,7 +46,7 @@
         },
         {
             "trait_type": "Weapon",
-            "value": "None"
+            "value": "Freshly ground Java in a Bitcoin Cash Mug"
         }
     ]
 }

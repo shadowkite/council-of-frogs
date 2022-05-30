@@ -5,48 +5,8 @@
     "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
         {
-            "trait_type": "Back",
-            "value": "None"
-        },
-        {
-            "trait_type": "Background",
-            "value": "Pastel Orange"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Yellow"
-        },
-        {
-            "trait_type": "Extra",
-            "value": "None"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Happy"
-        },
-        {
-            "trait_type": "Face",
-            "value": "None"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Smiling"
-        },
-        {
-            "trait_type": "Pupils",
-            "value": "X"
-        },
-        {
-            "trait_type": "Tattoo",
-            "value": "None"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Mighty Administrator's Quill"
+            "trait_type": "Elder",
+            "value": "In Spirit of Van Gogh"
         }
     ]
 }
