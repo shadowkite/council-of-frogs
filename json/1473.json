@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #1473",
+    "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/1473.png",
+    "external_url": "https://frogs.shadowkite.io/",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "Damascus Steel Katana"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pastel Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "Handcrafted Leather Armguards"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Froginator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Unhappy"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "The Non-existent Spoon of Gd'thta"
+        }
+    ]
+}

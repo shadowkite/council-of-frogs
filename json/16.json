@@ -1,8 +1,8 @@
 {
     "name": "Council of Frogs #16",
-    "description": "The Council of Frogs",
+    "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
     "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/16.png",
-    "external_url": "https://frogs.shadowkite.io",
+    "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
         {
             "trait_type": "Back",
@@ -10,19 +10,19 @@
         },
         {
             "trait_type": "Background",
-            "value": "Pastel Purple"
+            "value": "Dark Purple Gradient"
         },
         {
             "trait_type": "Body",
-            "value": "Green"
+            "value": "Purple"
         },
         {
             "trait_type": "Extra",
-            "value": "Hardcrafted Leather Armguards"
+            "value": "All-seeing Eye of Judgement"
         },
         {
             "trait_type": "Eyes",
-            "value": "Mad"
+            "value": "Happy"
         },
         {
             "trait_type": "Face",
@@ -30,15 +30,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "Froginator"
+            "value": "Woolly Frog Hat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Tonguebiter's Nightmare"
+            "value": "Smiling"
         },
         {
             "trait_type": "Pupils",
-            "value": "Horizontal"
+            "value": "X"
         },
         {
             "trait_type": "Tattoo",

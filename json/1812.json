@@ -1,0 +1,52 @@
+{
+    "name": "Council of Frogs #1812",
+    "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
+    "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/1812.png",
+    "external_url": "https://frogs.shadowkite.io/",
+    "attributes": [
+        {
+            "trait_type": "Back",
+            "value": "Angelic Wings"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Pastel Aqua"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Poisonous"
+        },
+        {
+            "trait_type": "Extra",
+            "value": "All-seeing Eye of Judgement"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mad"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Spectacles of the Wise"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Naveen's Crown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Unhappy"
+        },
+        {
+            "trait_type": "Pupils",
+            "value": "Slit"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "None"
+        }
+    ]
+}

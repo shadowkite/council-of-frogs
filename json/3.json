@@ -1,8 +1,8 @@
 {
     "name": "Council of Frogs #3",
-    "description": "The Council of Frogs",
+    "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
     "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/3.png",
-    "external_url": "https://frogs.shadowkite.io",
+    "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
         {
             "trait_type": "Back",
@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "Background",
-            "value": "Pastel Blue"
+            "value": "Pastel Red"
         },
         {
             "trait_type": "Body",
-            "value": "Red"
+            "value": "Orange"
         },
         {
             "trait_type": "Extra",
@@ -22,19 +22,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Sad"
         },
         {
             "trait_type": "Face",
-            "value": "Spectacles of the Wise"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Froginator"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Unhappy"
+            "value": "Smiling"
         },
         {
             "trait_type": "Pupils",
@@ -46,7 +46,7 @@
         },
         {
             "trait_type": "Weapon",
-            "value": "The Non-existent Spoon of Gd'thta"
+            "value": "Merlin's Lost Staff"
         }
     ]
 }

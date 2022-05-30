@@ -1,92 +1,48 @@
 {
     "name": "Council of Frogs #1636",
-    "description": "",
+    "description": "The Council of Frogs, minted in SmartBCH and make the leap to many other blockchains! Check out https://frogs.shadowkite.io/ to send them anywhere you like. ",
     "image": "https://raw.githubusercontent.com/shadowkite/council-of-frogs/master/images/1636.png",
-    "external_url": "https://frogs.shadowkite.io",
+    "external_url": "https://frogs.shadowkite.io/",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "PastelMagenta"
-        },
-        {
-            "trait_type": "Shadow",
-            "value": "Shadow"
-        },
-        {
-            "trait_type": "Body",
-            "value": "GoldStatue"
-        },
-        {
-            "trait_type": "Tattoo",
-            "value": "None"
-        },
-        {
-            "trait_type": "Shading1",
-            "value": "Shading1"
-        },
-        {
-            "trait_type": "Shading2",
-            "value": "Shading2"
-        },
-        {
-            "trait_type": "Colorburn",
-            "value": "Colorburn"
-        },
-        {
-            "trait_type": "Outline",
-            "value": "Outline"
-        },
-        {
-            "trait_type": "Highlight",
-            "value": "Highlight"
-        },
         {
             "trait_type": "Back",
             "value": "None"
         },
         {
-            "trait_type": "Toonic",
-            "value": "None"
+            "trait_type": "Background",
+            "value": "Pastel Magenta"
         },
         {
-            "trait_type": "Toonic",
-            "value": "None"
+            "trait_type": "Body",
+            "value": "Gold Statue"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Lick"
-        },
-        {
-            "trait_type": "Head",
-            "value": "ShroudofMysteries"
-        },
-        {
-            "trait_type": "Rat-cig",
-            "value": "None"
-        },
-        {
-            "trait_type": "Rat-halo",
-            "value": "None"
+            "trait_type": "Extra",
+            "value": "Satoshi's Bible"
         },
         {
             "trait_type": "Eyes",
             "value": "Sad"
         },
         {
-            "trait_type": "Mask",
-            "value": "Mad"
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Shroud of Mysteries"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lick"
         },
         {
             "trait_type": "Pupils",
             "value": "Slit"
         },
         {
-            "trait_type": "Face",
+            "trait_type": "Tattoo",
             "value": "None"
-        },
-        {
-            "trait_type": "Extra",
-            "value": "SatoshisBible"
         },
         {
             "trait_type": "Weapon",
