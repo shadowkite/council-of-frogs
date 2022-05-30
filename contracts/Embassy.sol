@@ -19,7 +19,7 @@ contract x0C0F_Embassy is Ownable, ERC721Enumerable, NonblockingReceiver {
     address public bridger;
 
     /** Project bridge **/
-    bool projectTraverseEnabled = false;
+    bool public projectTraverseEnabled = false;
     mapping(bytes32 => bool) public handledMessages;
     mapping(uint16 => uint256) public gasCosts;
 
@@ -98,7 +98,7 @@ contract x0C0F_Embassy is Ownable, ERC721Enumerable, NonblockingReceiver {
 
     /* Layer Zero */
     function traverseChains(uint16 _dstChainId, uint256 _tokenId) public payable {
-        require(msg.sender == ownerOf(_tokenId), "Not the owner");
+        require(msg.sender == ownerOf(_tokenId), "Not owner");
         _burn(_tokenId);
 
         bytes memory payload = abi.encode(msg.sender, _tokenId);

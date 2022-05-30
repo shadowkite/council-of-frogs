@@ -21,7 +21,6 @@ contract x0C0F_CongressionalOffice is ERC721Enumerable, Ownable, NonblockingRece
     /** Mint settings **/
     uint256 public normalCost;
     uint256 public discountedCost;
-    uint256 public maxMintAmount = 10;
     bool public mintPaused = true;
 
     // Random index assignment
@@ -34,7 +33,7 @@ contract x0C0F_CongressionalOffice is ERC721Enumerable, Ownable, NonblockingRece
     address public bridger;
 
     /** Project bridge **/
-    bool projectTraverseEnabled = false;
+    bool public projectTraverseEnabled = false;
     mapping(bytes32 => bool) public handledMessages;
     mapping(uint16 => uint256) public gasCosts;
 
@@ -46,8 +45,9 @@ contract x0C0F_CongressionalOffice is ERC721Enumerable, Ownable, NonblockingRece
     /** Adoption papers **/
     function mint(uint256 _mintAmount) public payable {
         require(_mintAmount > 0, 'Congressional Office: What? Adopt us. Please.');
-        require(_mintAmount <= maxMintAmount, 'Congressional Office: Gas is expensive these days.');
+        require(_mintAmount <= 20, 'Congressional Office: Gas is expensive these days.');
         require(mintedSupply.add(_mintAmount) <= TOKEN_LIMIT, 'Congressional Office: Our chairs are already empty :(');
+        require(!mintPaused, 'Congressional Office: Hold up.');
 
         if (msg.sender != owner()) {
             uint256 cost = getCostsforUser();
